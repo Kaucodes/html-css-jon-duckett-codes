@@ -11,7 +11,7 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 04 – Links
 - ✅ Chapter 05 – Images
 - ✅ Chapter 06 – Tables
-
+- ✅ Chapter 07 – Forms
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
