@@ -12,6 +12,7 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 05 – Images
 - ✅ Chapter 06 – Tables
 - ✅ Chapter 07 – Forms
+- ✅ Chapter 08 – Extra markup
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
