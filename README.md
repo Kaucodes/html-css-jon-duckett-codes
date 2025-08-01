@@ -13,6 +13,7 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 06 – Tables
 - ✅ Chapter 07 – Forms
 - ✅ Chapter 08 – Extra markup
+- ✅ Chapter 09 – Flash, Video & Audio
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
