@@ -15,6 +15,7 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 08 – Extra markup
 - ✅ Chapter 09 – Flash, Video & Audio
 - ✅ Chapter 10 – Introducing CSS
+- ✅ Chapter 11 – Colors
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
