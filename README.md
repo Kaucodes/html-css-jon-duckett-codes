@@ -18,6 +18,7 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 11 – Colors
 - ✅ Chapter 12 – Text
 - ✅ Chapter 13 – Boxes
+- ✅ Chapter 14 – Lists, Tables & Forms
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
