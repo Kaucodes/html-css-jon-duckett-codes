@@ -6,7 +6,7 @@
     <title>List Style Image</title>
     <style>
       ul {
-        list-style-image: url(images/star.jpg);
+        list-style-image: url(images/star-10px.png);
       }
       li {
         margin: 10px 0px 0px 0px;
@@ -25,3 +25,11 @@
     </ul>
   </body>
 </html>
+
+<!--For this code specially it's kind of exhausting to go to photoshop, resize an image. While you can use simple css code to do the whole job.
+The other way is to:
+--use li img {}, set width, height, & margin-right to do it.
+--Define the list-style in ul {} as none
+--put <img> element in the html..
+The only time you'd prefer to work with the way above is in order not to repeat yourself,
+but this way is cleaner in my point of view:)-->
