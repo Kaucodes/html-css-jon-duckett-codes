@@ -21,6 +21,9 @@ This repository contains my chapter-by-chapter practice code from the book
 - ✅ Chapter 14 – Lists, Tables & Forms
 - ✅ Chapter 15 – Layout
 - ✅ Chapter 16 – Images
+- ✅ chapter 17 – New HTML5 Layout
+🪄 CODE EXAMPLES ARE COMPLETED <:𐩑>
+________________
 
 Each folder includes the code examples and exercises I completed from that chapter.
 
